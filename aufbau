@@ -12,20 +12,24 @@
 		... Venn-Diagramm
 	==> Helligkeit, Wahrnehmungskennlinie
 		... Formel
+	*** Demo durch Lampe
 	==> LED-Charakteristika (Kennlinie, Ansteuerung - Konstantstromquelle)
 	==> PDM/PWM ((KURZ!) delta-sigma-adc, timer, Auflösung, Auflösung bei
 		logarithmischer Kennlinie)
 	==> Schaltplan
+	==> Zukunft (Verbesserung, digitale)
  5. EB EEG Biologisch (grün)
  	==> Schlafphasendiagramm
 	==> Features, spektrale Eigenschaften
+	*** Papier rundgeben
 	==> Beispielplot/Verlauf EEG über 1h,10m,10s oder so
 		... Featurehervorhebung
  6. ET EEG Technisch (gelb)
  	==> Schaltplan, Charakteristika der Bauteile (Caps, Rs, ADS, ATM8L, SPR)
+	*** Platine rundgeben
  	==> Platinenlayout, mit Erklärung! Guards, (Kelvin Connections, SPI,
 		AGND/DGND)
- 	==> Demo
+ 	*** Demo
 		... Während Vorbereitung bitte Platine zeigen, evtl. auch hier mit
 			progress bar
 		... Live, man sehe erst Waveform, dann Spektrum.

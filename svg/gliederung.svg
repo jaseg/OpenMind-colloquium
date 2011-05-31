@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1600px"
+   height="1200px"
+   id="svg3397"
+   version="1.1"
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="gliederung.svg">
+  <defs
+     id="defs3399" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.54583333"
+     inkscape:cx="858.13245"
+     inkscape:cy="545.39059"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:window-width="1438"
+     inkscape:window-height="879"
+     inkscape:window-x="0"
+     inkscape:window-y="19"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3402">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <path
+       style="fill:#ffcc00;stroke:none"
+       d="M 873.89313,265.64885 545.9542,1159.6947 C 138.21515,1035.457 -33.410245,876.22974 -164.8855,533.12976 L 688.85496,161.22137 z"
+       id="path3405"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#99ff55;stroke:none"
+       d="M 961.83206,23.816789 C 1312.9361,95.218706 1618.443,231.82621 1773.4351,613.74046 L 833.58779,1027.7863 644.8855,886.71756 z"
+       id="path3407"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3409"
+       style="font-size:39.76628559000000251px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Futura Bk BT;-inkscape-font-specification:Futura Bk BT"
+       transform="matrix(3.0176316,0,0,3.0176316,-738.03545,-2483.0666)"><flowRegion
+         id="flowRegion3411"><rect
+           id="rect3413"
+           width="864.73285"
+           height="324.27481"
+           x="260.15268"
+           y="917.86261"
+           style="font-family:Futura Bk BT;-inkscape-font-specification:Futura Bk BT;font-size:39.76628559000000251px;fill:#ffffff" /></flowRegion><flowPara
+         id="flowPara3415">LAMPE</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3417"
+       style="font-size:39.76628493999999847px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura"
+       transform="matrix(3.0176316,0,0,3.0176316,643.3386,-2290.7002)"><flowRegion
+         id="flowRegion3419"><rect
+           id="rect3421"
+           width="987.4809"
+           height="447.02289"
+           x="212.51909"
+           y="991.14502"
+           style="font-size:39.76628493999999847px;font-family:Futura;-inkscape-font-specification:Futura;fill:#ffffff" /></flowRegion><flowPara
+         id="flowPara3423">EEG</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3425"
+       style="font-size:80px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bookman Uralic"
+       transform="matrix(0.7141341,-0.70000892,0.70000892,0.7141341,7.7564564,720.84321)"><flowRegion
+         id="flowRegion3427"><rect
+           id="rect3429"
+           width="842.74811"
+           height="569.771"
+           x="135.57253"
+           y="643.05341"
+           style="font-size:80px;fill:#ffffff" /></flowRegion><flowPara
+         id="flowPara3431"
+         style="font-size:80px;fill:#ffffff;font-family:Futura;-inkscape-font-specification:Futura">BIOLOGIE</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3433"
+       style="font-size:80px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bookman Uralic"
+       transform="matrix(0.7141341,-0.70000892,0.70000892,0.7141341,-43.541254,-189.69114)"><flowRegion
+         id="flowRegion3435"><rect
+           id="rect3437"
+           width="736.48853"
+           height="331.60306"
+           x="168.54962"
+           y="802.44275"
+           style="font-size:80px;fill:#ffffff" /></flowRegion><flowPara
+         id="flowPara3441"
+         style="font-size:80px;fill:#ffffff;font-family:Futura;-inkscape-font-specification:Futura">TECHNIK</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3445"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Bitstream Vera Sans;font-style:normal;font-weight:normal;font-size:40px;-inkscape-font-specification:Bookman Uralic;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion3447"><rect
+           id="rect3449"
+           width="302.29007"
+           height="177.70993"
+           x="566.10687"
+           y="346.25955" /></flowRegion><flowPara
+         id="flowPara3451"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3469"
+       style="font-size:38.30477142000000157px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura"
+       transform="matrix(2.6106409,0,0,2.6106409,-887.90643,-601.96092)"><flowRegion
+         id="flowRegion3471"><rect
+           id="rect3473"
+           width="558.77863"
+           height="240"
+           x="556.94659"
+           y="349.92368"
+           style="font-size:38.30477142000000157px;fill:#000000" /></flowRegion><flowPara
+         id="flowPara3475">LT</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3477"
+       style="font-size:38.30477142000000157px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura"
+       transform="matrix(2.6106409,0,0,2.6106409,-1375.5979,-558.2994)"><flowRegion
+         id="flowRegion3479"><rect
+           id="rect3481"
+           width="445.19083"
+           height="175.87787"
+           x="980.15265"
+           y="340.76337"
+           style="font-size:38.30477142000000157px;fill:#000000" /></flowRegion><flowPara
+         id="flowPara3483">LB</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3485"
+       style="font-size:38.30477142000000157px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura"
+       transform="matrix(2.6106409,0,0,2.6106409,-968.06074,-962.28108)"><flowRegion
+         id="flowRegion3487"><rect
+           id="rect3489"
+           width="392.06107"
+           height="175.87787"
+           x="447.02289"
+           y="637.55725"
+           style="font-size:38.30477142000000157px;fill:#000000" /></flowRegion><flowPara
+         id="flowPara3491">ET</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3493"
+       style="font-size:38.30477142000000157px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura"
+       transform="matrix(2.6106409,0,0,2.6106409,-1270.7297,-1006.0401)"><flowRegion
+         id="flowRegion3495"><rect
+           id="rect3497"
+           width="481.83206"
+           height="133.74046"
+           x="831.75574"
+           y="659.54199"
+           style="font-size:38.30477142000000157px;fill:#000000" /></flowRegion><flowPara
+         id="flowPara3499">EB</flowPara></flowRoot>  </g>
+</svg>
