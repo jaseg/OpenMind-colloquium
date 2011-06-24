@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1600px"
+   height="1200px"
+   id="svg4435"
+   version="1.1"
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="folie_template.svg">
+  <defs
+     id="defs4437">
+    <filter
+       inkscape:collect="always"
+       id="filter7521"
+       x="-0.034035794"
+       width="1.0680716"
+       y="-0.25300442"
+       height="1.5060088">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="18.793698"
+         id="feGaussianBlur7523" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter7649"
+       x="-0.15772662"
+       width="1.3154532"
+       y="-0.17970491"
+       height="1.3594098">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="18.058121"
+         id="feGaussianBlur7651" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.555"
+     inkscape:cx="800"
+     inkscape:cy="600"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:window-width="1438"
+     inkscape:window-height="879"
+     inkscape:window-x="0"
+     inkscape:window-y="19"
+     inkscape:window-maximized="0"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata4440">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <path
+       style="color:#000000;fill:#f8f8ea;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 0,-5.0962651 C 0,394.90373 0,794.90373 0,1194.9037 c 533.33333,0 1066.6667,0 1600,0 0,-399.99997 0,-799.99997 0,-1199.9999651 -533.3333,0 -1066.66667,0 -1600,0 z"
+       id="rect5526"
+       inkscape:connector-curvature="0" />
+    <path
+       style="color:#000000;fill:#4d3227;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.31496047999999988;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;filter:url(#filter7521)"
+       d="m 274.78125,0 c 0,59.425676 0,118.85135 0,178.27703 441.73958,0 883.47915,0 1325.21885,0 0,-59.42568 0,-118.851354 0,-178.27703 C 1158.2604,0 716.52083,0 274.78125,0 z"
+       id="rect7238-3-5"
+       inkscape:connector-curvature="0" />
+    <path
+       style="color:#000000;fill:#f1edcd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.31496048;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 274.78125,0 c 0,59.425676 0,118.85135 0,178.27703 441.73958,0 883.47915,0 1325.21875,0 C 1600,118.85135 1600,59.425676 1600,0 1158.2604,0 716.52083,0 274.78125,0 z"
+       id="rect7238-3"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="color:#000000;fill:#4d3227;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.31496047999999988;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;filter:url(#filter7649)"
+       id="rect6373-6-4"
+       width="274.776"
+       height="241.17032"
+       x="-4.8455324e-05"
+       y="-3.9809615e-06" />
+    <g
+       id="g7408">
+      <g
+         transform="matrix(3.3737484,0,0,3.3737484,-2274.6383,-2260.1937)"
+         id="g6536">
+        <rect
+           style="color:#000000;fill:#930c08;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.31496048;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect6373-6"
+           width="81.445312"
+           height="71.484383"
+           x="674.21692"
+           y="669.93549" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot6054-7"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#f1edcd;fill-opacity:1;stroke:none;font-family:Futura Bk BT;-inkscape-font-specification:Futura Bk BT"
+           transform="matrix(3.0496454,0,0,3.0496454,-1106.1255,-741.71578)"><flowRegion
+             id="flowRegion6056-8"><rect
+               id="rect6058-9"
+               width="451.01947"
+               height="219.1394"
+               x="580.97424"
+               y="453.39716"
+               style="fill:#f1edcd;fill-opacity:1" /></flowRegion><flowPara
+             id="flowPara6060-15"
+             style="font-size:32.79069901px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#f1edcd;fill-opacity:1;font-family:Futura Bk BT;-inkscape-font-specification:Futura Bk BT">LT</flowPara></flowRoot>      </g>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot7728"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d3227;fill-opacity:1;stroke:none;font-family:Futura Bk BT;-inkscape-font-specification:Futura Bk BT"
+       transform="matrix(2.3221221,0,0,2.3221221,-391.33085,-1.4913112)"><flowRegion
+         id="flowRegion7730"><rect
+           id="rect7732"
+           width="1234.2343"
+           height="131.53152"
+           x="322.52252"
+           y="14.414414"
+           style="fill:#4d3227;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara7734">Lorem ipsum dolor sit</flowPara></flowRoot>    <g
+       id="g7881"
+       transform="translate(-448.47132,-22.933192)">
+      <g
+         id="g7867">
+        <path
+           sodipodi:type="arc"
+           style="color:#000000;fill:#4d3227;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.31496048;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="path7736"
+           sodipodi:cx="306.3063"
+           sodipodi:cy="396.39639"
+           sodipodi:rx="19.81982"
+           sodipodi:ry="19.81982"
+           d="m 326.12613,396.39639 c 0,10.94619 -8.87364,19.81982 -19.81983,19.81982 -10.94618,0 -19.81982,-8.87363 -19.81982,-19.81982 0,-10.94618 8.87364,-19.81982 19.81982,-19.81982 10.94619,0 19.81983,8.87364 19.81983,19.81982 z"
+           transform="matrix(0.72727274,0,0,0.72727274,423.58306,227.62333)" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot7728-0"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d3227;fill-opacity:1;stroke:none;font-family:Futura Bk BT;-inkscape-font-specification:Futura Bk BT"
+           transform="matrix(1.8137179,0,0,1.8137179,95.42574,436.49266)"><flowRegion
+             id="flowRegion7730-1"><rect
+               id="rect7732-3"
+               width="1234.2343"
+               height="131.53152"
+               x="322.52252"
+               y="14.414414"
+               style="fill:#4d3227;fill-opacity:1" /></flowRegion><flowPara
+             id="flowPara7734-7">Lorem ipsum dolor sit</flowPara></flowRoot>      </g>
+      <g
+         id="g7874">
+        <path
+           sodipodi:type="arc"
+           style="color:#000000;fill:#4d3227;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.31496048;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="path7736-7"
+           sodipodi:cx="306.3063"
+           sodipodi:cy="396.39639"
+           sodipodi:rx="19.81982"
+           sodipodi:ry="19.81982"
+           d="m 326.12613,396.39639 c 0,10.94619 -8.87364,19.81982 -19.81983,19.81982 -10.94618,0 -19.81982,-8.87363 -19.81982,-19.81982 0,-10.94618 8.87364,-19.81982 19.81982,-19.81982 10.94619,0 19.81983,8.87364 19.81983,19.81982 z"
+           transform="matrix(0.72727274,0,0,0.72727274,423.58305,403.35927)" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot7728-0-2"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d3227;fill-opacity:1;stroke:none;font-family:Futura Bk BT;-inkscape-font-specification:Futura Bk BT"
+           transform="matrix(1.8137179,0,0,1.8137179,95.42573,612.2286)"><flowRegion
+             id="flowRegion7730-1-6"><rect
+               id="rect7732-3-4"
+               width="1234.2343"
+               height="131.53152"
+               x="322.52252"
+               y="14.414414"
+               style="fill:#4d3227;fill-opacity:1" /></flowRegion><flowPara
+             id="flowPara7734-7-5">Adipiscin elit</flowPara></flowRoot>      </g>
+      <g
+         id="g7860">
+        <path
+           sodipodi:type="arc"
+           style="color:#000000;fill:#4d3227;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.31496048;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="path7736-2"
+           sodipodi:cx="306.3063"
+           sodipodi:cy="396.39639"
+           sodipodi:rx="19.81982"
+           sodipodi:ry="19.81982"
+           d="m 326.12613,396.39639 c 0,10.94619 -8.87364,19.81982 -19.81983,19.81982 -10.94618,0 -19.81982,-8.87363 -19.81982,-19.81982 0,-10.94618 8.87364,-19.81982 19.81982,-19.81982 10.94619,0 19.81983,8.87364 19.81983,19.81982 z"
+           transform="matrix(0.72727274,0,0,0.72727274,423.58306,308.77842)" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot7728-0-0"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d3227;fill-opacity:1;stroke:none;font-family:Futura Bk BT;-inkscape-font-specification:Futura Bk BT"
+           transform="matrix(1.8137179,0,0,1.8137179,95.42574,524.36063)"><flowRegion
+             id="flowRegion7730-1-2"><rect
+               id="rect7732-3-9"
+               width="1234.2343"
+               height="131.53152"
+               x="322.52252"
+               y="14.414414"
+               style="fill:#4d3227;fill-opacity:1" /></flowRegion><flowPara
+             id="flowPara7734-7-0">Amet consectetur</flowPara></flowRoot>      </g>
+    </g>
+    <g
+       id="g8050">
+      <rect
+         y="-265.0058"
+         x="-145.24356"
+         height="265.0058"
+         width="1911.0994"
+         id="rect7653"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.31496048;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         y="-173.44345"
+         x="-226.78375"
+         height="1453.5275"
+         width="226.78375"
+         id="rect7653-0"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.31496048;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         y="-516.1673"
+         x="1600"
+         height="1763.4374"
+         width="226.78375"
+         id="rect7653-0-7"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.31496048;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         y="1194.9037"
+         x="-238.43257"
+         height="265.0058"
+         width="1911.0994"
+         id="rect7653-1"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.31496048;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+  </g>
+</svg>
