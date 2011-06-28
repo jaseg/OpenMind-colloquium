@@ -15,9 +15,82 @@
    id="svg4435"
    version="1.1"
    inkscape:version="0.48.1 r9760"
-   sodipodi:docname="gliederung_rev10.svg">
+   sodipodi:docname="deckblatt.svg">
   <defs
-     id="defs4437" />
+     id="defs4437">
+    <filter
+       inkscape:collect="always"
+       id="filter5358"
+       x="-0.026321498"
+       width="1.052643"
+       y="-0.27211561"
+       height="1.5442312">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="16.278575"
+         id="feGaussianBlur5360" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter5427"
+       x="-0.027817004"
+       width="1.055634"
+       y="-0.1749037"
+       height="1.3498074">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="13.787339"
+         id="feGaussianBlur5429" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter5496"
+       x="-0.043891281"
+       width="1.0877826"
+       y="-0.20023189"
+       height="1.4004638">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="13.149278"
+         id="feGaussianBlur5498" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter5781"
+       x="-0.071448111"
+       width="1.1428962"
+       y="-0.2715394"
+       height="1.5430788">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="21.40496"
+         id="feGaussianBlur5783" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter5785"
+       x="-0.034610562"
+       width="1.0692211"
+       y="-0.27153947"
+       height="1.5430789">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="21.40496"
+         id="feGaussianBlur5787" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter5789"
+       x="-0.046632841"
+       width="1.0932657"
+       y="-0.27153963"
+       height="1.5430793">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="21.40496"
+         id="feGaussianBlur5791" />
+    </filter>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,9 +98,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.049123535"
-     inkscape:cx="4566.8415"
-     inkscape:cy="-1923.1244"
+     inkscape:zoom="0.285"
+     inkscape:cx="541.52471"
+     inkscape:cy="586.16436"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      showgrid="false"
@@ -243,53 +316,112 @@
         </g>
       </g>
     </g>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3434"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;color:#000000;fill:#4d3227;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Futura Bk BT;-inkscape-font-specification:Futura Bk BT"
-       transform="matrix(2.5503479,0,0,2.5503479,-1341.8589,-54.158251)"><flowRegion
-         id="flowRegion3436"><rect
-           id="rect3438"
-           width="1156.364"
-           height="374.37503"
-           x="260.66299"
-           y="166.09512"
-           style="text-align:center;text-anchor:middle;color:#000000;fill:#4d3227;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" /></flowRegion><flowPara
-         id="flowPara3440">Die Intelligente Lampe</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3442"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;color:#000000;fill:#4d3227;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Futura Bk BT;-inkscape-font-specification:Futura Bk BT"
-       transform="matrix(1.4457837,0,0,1.4457837,163.44007,181.6838)"><flowRegion
-         id="flowRegion3444"><rect
-           id="rect3446"
-           width="663.02875"
-           height="363.87851"
-           x="108.46379"
-           y="250.06709"
-           style="text-align:center;text-anchor:middle;color:#000000;fill:#4d3227;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" /></flowRegion><flowPara
-         id="flowPara3448">Eine Zusammenfassung des OpenMind und des RGBulb-Projektes</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3450"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;color:#000000;fill:#4d3227;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Futura Bk BT;-inkscape-font-specification:Futura Bk BT"
-       transform="translate(52.888672,479.34)"><flowRegion
-         id="flowRegion3452"><rect
-           id="rect3454"
-           width="1289.3196"
-           height="458.34702"
-           x="101.46613"
-           y="376.02505"
-           style="text-align:center;text-anchor:middle;color:#000000;fill:#4d3227;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" /></flowRegion><flowPara
-         id="flowPara3456">Kolloquium von Jan Sebastian Götte</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3458"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;color:#000000;fill:#4d3227;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Futura Bk BT;-inkscape-font-specification:Futura Bk BT"
-       transform="translate(-188.11914,426.85751)"><flowRegion
-         id="flowRegion3460"><rect
-           id="rect3462"
-           width="1275.3243"
-           height="596.55084"
-           x="355.13147"
-           y="489.73709"
-           style="text-align:center;text-anchor:middle;color:#000000;fill:#4d3227;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" /></flowRegion><flowPara
-         id="flowPara3464">Juni 2011</flowPara></flowRoot>  </g>
+    <g
+       id="g5837"
+       transform="translate(0,-11.217644)">
+      <g
+         transform="translate(0,-66.666663)"
+         id="g5828">
+        <g
+           id="g5793">
+          <path
+             inkscape:connector-curvature="0"
+             id="rect14666-8-1"
+             d="m 57.858013,349.77831 c 0,63.06253 0,126.12507 0,189.18761 494.761387,0 989.522487,0 1484.283987,0 0,-63.06254 0,-126.12508 0,-189.18761 -494.7615,0 -989.5226,0 -1484.283987,0 z"
+             style="color:#000000;fill:#4d3227;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.31496048;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter5785);enable-background:accumulate" />
+          <path
+             inkscape:connector-curvature="0"
+             id="rect14666-8"
+             d="m 57.858013,349.77831 c 0,63.06253 0,126.12507 0,189.18761 494.761387,0 989.522487,0 1484.283987,0 0,-63.06254 0,-126.12508 0,-189.18761 -494.7615,0 -989.5226,0 -1484.283987,0 z"
+             style="color:#000000;fill:#f5ce32;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.31496048;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        </g>
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot3434"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;color:#000000;fill:#4d3227;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Futura Bk BT;-inkscape-font-specification:Futura Bk BT"
+           transform="matrix(2.5503479,0,0,2.5503479,-1341.8589,-54.158245)"><flowRegion
+             id="flowRegion3436"><rect
+               id="rect3438"
+               width="1156.364"
+               height="374.37503"
+               x="260.66299"
+               y="166.09512"
+               style="text-align:center;text-anchor:middle;color:#000000;fill:#4d3227;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" /></flowRegion><flowPara
+             id="flowPara3440">Die Intelligente Lampe</flowPara></flowRoot>      </g>
+      <g
+         transform="translate(0,-40.188627)"
+         id="g5819">
+        <g
+           id="g5797">
+          <path
+             id="rect6373-6-6"
+             d="m 249.1875,556.8125 0,189.1875 1101.625,0 0,-189.1875 -1101.625,0 z"
+             style="color:#000000;fill:#4d3227;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.31496048;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter5789);enable-background:accumulate"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:connector-curvature="0"
+             id="rect6373-6"
+             d="m 249.1875,556.8125 0,189.1875 1101.625,0 0,-189.1875 -1101.625,0 z"
+             style="color:#000000;fill:#930c08;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.31496048;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        </g>
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot3442"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;color:#000000;fill:#f1edcd;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Futura Bk BT;-inkscape-font-specification:Futura Bk BT"
+           transform="matrix(1.4457837,0,0,1.4457837,163.44009,211.51407)"><flowRegion
+             id="flowRegion3444"><rect
+               id="rect3446"
+               width="663.02875"
+               height="363.87851"
+               x="108.46379"
+               y="250.06709"
+               style="text-align:center;text-anchor:middle;color:#000000;fill:#f1edcd;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" /></flowRegion><flowPara
+             id="flowPara3448">Eine Zusammenfassung des OpenMind und des RGBulb-Projektes</flowPara></flowRoot>      </g>
+      <g
+         transform="translate(0,-66.666659)"
+         id="g5805">
+        <g
+           id="g5801">
+          <path
+             inkscape:connector-curvature="0"
+             id="rect14666-5"
+             d="m 440.49504,816.80264 c 0,63.06253 0,126.12504 0,189.18766 239.66996,0 479.33991,0 719.00996,0 0,-63.06262 0,-126.12513 0,-189.18766 -239.67004,0 -479.34,0 -719.00996,0 z"
+             style="color:#000000;fill:#4d3227;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.31496048;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter5781);enable-background:accumulate" />
+          <path
+             inkscape:connector-curvature="0"
+             id="rect14666"
+             d="m 440.49504,816.80264 c 0,63.06253 0,126.12504 0,189.18766 239.66996,0 479.33991,0 719.00996,0 0,-63.06262 0,-126.12513 0,-189.18766 -239.67004,0 -479.34,0 -719.00996,0 z"
+             style="color:#000000;fill:#7ba9c6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.31496048;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        </g>
+        <g
+           id="g5460"
+           transform="translate(0,1.6584776e-5)">
+          <flowRoot
+             transform="translate(52.888672,479.34)"
+             style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;color:#000000;fill:#4d3227;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Futura Bk BT;-inkscape-font-specification:Futura Bk BT"
+             id="flowRoot3450"
+             xml:space="preserve"><flowRegion
+               id="flowRegion3452"><rect
+                 style="text-align:center;text-anchor:middle;color:#000000;fill:#4d3227;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+                 y="376.02505"
+                 x="101.46613"
+                 height="458.34702"
+                 width="1289.3196"
+                 id="rect3454" /></flowRegion><flowPara
+               id="flowPara3456">Kolloquium von Jan Sebastian Götte</flowPara></flowRoot>          <flowRoot
+             transform="translate(-188.11914,426.85751)"
+             style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;color:#000000;fill:#4d3227;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Futura Bk BT;-inkscape-font-specification:Futura Bk BT"
+             id="flowRoot3458"
+             xml:space="preserve"><flowRegion
+               id="flowRegion3460"><rect
+                 style="text-align:center;text-anchor:middle;color:#000000;fill:#4d3227;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+                 y="489.73709"
+                 x="355.13147"
+                 height="596.55084"
+                 width="1275.3243"
+                 id="rect3462" /></flowRegion><flowPara
+               id="flowPara3464">Juni 2011</flowPara></flowRoot>        </g>
+      </g>
+    </g>
+  </g>
 </svg>
