@@ -15,7 +15,7 @@
    id="svg10646"
    version="1.1"
    inkscape:version="0.48.1 r9760"
-   sodipodi:docname="gliederung_from_template_rev4.svg">
+   sodipodi:docname="quellen_from_template_rev4.svg">
   <defs
      id="defs10648">
     <linearGradient
@@ -123,9 +123,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.391875"
-     inkscape:cx="706.12615"
-     inkscape:cy="704.11923"
+     inkscape:zoom="0.57"
+     inkscape:cx="800"
+     inkscape:cy="600"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      showgrid="false"
@@ -201,16 +201,18 @@
            xml:space="preserve"
            id="flowRoot7728-0"
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d3227;fill-opacity:1;stroke:none;font-family:Futura Bk BT;-inkscape-font-specification:Futura Bk BT"
-           transform="matrix(1.9674929,0,0,1.9674929,-442.96021,500.64333)"><flowRegion
+           transform="matrix(1.9674929,0,0,1.9674929,-481.5567,500.64333)"><flowRegion
              id="flowRegion7730-1"><rect
                id="rect7732-3"
-               width="658.36725"
-               height="289.76526"
+               width="680.65942"
+               height="299.57382"
                x="322.52252"
                y="14.414414"
                style="fill:#4d3227;fill-opacity:1" /></flowRegion><flowPara
              id="flowPara7734-7"
-             style="font-size:30.49566269px">Die LED-Kennlinien sind aus dem &quot;Technical Datasheet for W724C0&quot; von Seoul Semiconductor entnommen und überarbeitet. Alle sonstigen Bilder sind entweder Eigenkreationen oder Wikipedia DE oder EN entnommen und überarbeitet worden. Für Einzelheiten stehe ich gerne zur Verfügung.</flowPara></flowRoot>      </g>
+             style="font-size:30.49566269px">Die LED-Kennlinien sind aus dem &quot;Technical Datasheet for W724C0&quot; Rev. 01 von Seoul Semiconductor entnommen und überarbeitet. Alle sonstigen Bilder sind entweder Eigenkreationen oder Wikipedia DE oder EN entnommen und überarbeitet worden. Stand: 27. Juni 2011.</flowPara><flowPara
+             style="font-size:30.49566269px"
+             id="flowPara82331">Für Einzelheiten stehe ich gerne zur Verfügung.</flowPara></flowRoot>      </g>
       <rect
          y="991.56201"
          x="-1.3876953"
