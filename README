@@ -1,3 +1,2 @@
 This is the presentation I used for my "colloquium". In Saxony-Anhalt you can replace one written abitur exam with a twenty- to fifty-something page paper and 20-minute "colloquium" on some topic of your choice. This got 15/15 points.
-The pdf is to be found here:
-https://github.com/jaseg/OpenMind-colloquium/blob/master/svg/presentation.pdf
+The pdf is to be found at svg/presentation.pdf. Unfortunately, the file is too big to be directly downloaded from github (just clone the repo if you want to see it). This is mainly caused by my inept handling of a large background image in the pdf file (apparently it is duplicated on each page).
