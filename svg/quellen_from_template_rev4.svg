@@ -98,7 +98,7 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient12307-8"
-       id="linearGradient67612"
+       id="linearGradient3073"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1,0,0,0.26771285,-1609.6741,-657.36473)"
        x1="716.90955"
@@ -108,7 +108,7 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient12307"
-       id="linearGradient67615"
+       id="linearGradient3076"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1,0,0,0.37500002,-8.2862989,595.88846)"
        x1="715.15515"
@@ -123,16 +123,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.57"
-     inkscape:cx="800"
-     inkscape:cy="600"
+     inkscape:zoom="0.80421387"
+     inkscape:cx="1050.2243"
+     inkscape:cy="496.47676"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:window-width="1438"
-     inkscape:window-height="879"
+     inkscape:window-width="1440"
+     inkscape:window-height="878"
      inkscape:window-x="0"
-     inkscape:window-y="19"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true" />
@@ -144,7 +144,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -183,52 +183,30 @@
        height="55.188824"
        x="0"
        y="207.1532" />
-    <g
-       id="g67629">
-      <g
-         transform="translate(0,-114.83253)"
-         id="g67622">
-        <rect
-           style="color:#000000;fill:#f9f6dc;fill-opacity:0.41078838;fill-rule:nonzero;stroke:none;stroke-width:5.31496048;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect12287"
-           width="1600"
-           height="616.66895"
-           x="0"
-           y="489.72559"
-           rx="0"
-           ry="0" />
-        <flowRoot
-           xml:space="preserve"
-           id="flowRoot7728-0"
-           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d3227;fill-opacity:1;stroke:none;font-family:Futura Bk BT;-inkscape-font-specification:Futura Bk BT"
-           transform="matrix(1.9674929,0,0,1.9674929,-481.5567,500.64333)"><flowRegion
-             id="flowRegion7730-1"><rect
-               id="rect7732-3"
-               width="680.65942"
-               height="299.57382"
-               x="322.52252"
-               y="14.414414"
-               style="fill:#4d3227;fill-opacity:1" /></flowRegion><flowPara
-             id="flowPara7734-7"
-             style="font-size:30.49566269px">Die LED-Kennlinien sind aus dem &quot;Technical Datasheet for W724C0&quot; Rev. 01 von Seoul Semiconductor entnommen und überarbeitet. Alle sonstigen Bilder sind entweder Eigenkreationen oder Wikipedia DE oder EN entnommen und überarbeitet worden. Stand: 27. Juni 2011.</flowPara><flowPara
-             style="font-size:30.49566269px"
-             id="flowPara82331">Für Einzelheiten stehe ich gerne zur Verfügung.</flowPara></flowRoot>      </g>
-      <rect
-         y="991.56201"
-         x="-1.3876953"
-         height="55.188824"
-         width="1602.7754"
-         id="rect12289"
-         style="opacity:0.77405856;color:#000000;fill:url(#linearGradient67615);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.31496048;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      <rect
-         transform="scale(-1,-1)"
-         y="-374.89304"
-         x="-1602.7754"
-         height="39.399349"
-         width="1602.7754"
-         id="rect12289-1"
-         style="opacity:0.33472805;color:#000000;fill:url(#linearGradient67612);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.31496048;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-    </g>
+    <rect
+       style="color:#000000;fill:#f9f6dc;fill-opacity:0.41078838;fill-rule:nonzero;stroke:none;stroke-width:5.31496048;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect12287"
+       width="1600"
+       height="616.66895"
+       x="0"
+       y="374.89307"
+       rx="0"
+       ry="0" />
+    <rect
+       style="opacity:0.77405856;color:#000000;fill:url(#linearGradient3076);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.31496048;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect12289"
+       width="1602.7754"
+       height="55.188824"
+       x="-1.3876953"
+       y="991.56201" />
+    <rect
+       style="opacity:0.33472805;color:#000000;fill:url(#linearGradient3073);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.31496048;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect12289-1"
+       width="1602.7754"
+       height="39.399349"
+       x="-1602.7754"
+       y="-374.89304"
+       transform="scale(-1,-1)" />
     <g
        id="g13555"
        transform="translate(8.884253,974.73706)"
@@ -350,5 +328,74 @@
          id="rect6373-6"
          style="color:#000000;fill:#930c08;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.31496048;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </g>
+    <g
+       id="g3441"
+       transform="translate(0.06597865,0)">
+      <flowRoot
+         transform="matrix(1.9674929,0,0,1.9674929,-497.33924,522.0274)"
+         style="font-size:25.41305161px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d3227;fill-opacity:1;stroke:none;font-family:Futura Bk BT;-inkscape-font-specification:Futura Bk BT"
+         id="flowRoot7728-0"
+         xml:space="preserve"><flowRegion
+           id="flowRegion7730-1"><rect
+             style="font-size:25.41305161px;fill:#4d3227;fill-opacity:1"
+             y="14.414414"
+             x="322.52252"
+             height="299.57382"
+             width="680.65942"
+             id="rect7732-3" /></flowRegion><flowPara
+           id="flowPara3041"
+           style="font-size:25.41305161px">Seoul Semiconductor: Technical Datasheet for W724C0, Rev. 01</flowPara></flowRoot>      <flowRoot
+         transform="matrix(1.9674929,0,0,1.9674929,-494.77576,376.39999)"
+         style="font-size:25.41305161px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d3227;fill-opacity:1;stroke:none;font-family:Futura Bk BT;-inkscape-font-specification:Futura Bk BT"
+         id="flowRoot7728-0-5"
+         xml:space="preserve"><flowRegion
+           id="flowRegion7730-1-0"><rect
+             style="font-size:25.41305161px;fill:#4d3227;fill-opacity:1"
+             y="14.414414"
+             x="322.52252"
+             height="299.57382"
+             width="680.65942"
+             id="rect7732-3-3" /></flowRegion><flowPara
+           id="flowPara3041-6"
+           style="font-size:25.41305161px">Alle Bilder bis auf die Darstellung des Neurons sind von mir stark bearbeitet.</flowPara></flowRoot>      <flowRoot
+         transform="matrix(1.9674929,0,0,1.9674929,-496.5824,647.17259)"
+         style="font-size:25.41305161px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d3227;fill-opacity:1;stroke:none;font-family:Futura Bk BT;-inkscape-font-specification:Futura Bk BT"
+         id="flowRoot7728-0-1"
+         xml:space="preserve"><flowRegion
+           id="flowRegion7730-1-06"><rect
+             style="font-size:25.41305161px;fill:#4d3227;fill-opacity:1"
+             y="14.414414"
+             x="322.52252"
+             height="299.57382"
+             width="680.65942"
+             id="rect7732-3-32" /></flowRegion><flowPara
+           id="flowPara3041-0"
+           style="font-size:25.41305161px">MrSandman (en.wikipedia.org)</flowPara></flowRoot>      <flowRoot
+         transform="matrix(1.9674929,0,0,1.9674929,-499.68299,719.82756)"
+         style="font-size:25.41305161px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d3227;fill-opacity:1;stroke:none;font-family:Futura Bk BT;-inkscape-font-specification:Futura Bk BT"
+         id="flowRoot7728-0-1-5"
+         xml:space="preserve"><flowRegion
+           id="flowRegion7730-1-06-0"><rect
+             style="font-size:25.41305161px;fill:#4d3227;fill-opacity:1"
+             y="14.414414"
+             x="322.52252"
+             height="299.57382"
+             width="680.65942"
+             id="rect7732-3-32-3" /></flowRegion><flowPara
+           id="flowPara3041-0-6"
+           style="font-size:25.41305161px">Deglr6328 (en.wikipedia.org)</flowPara></flowRoot>      <flowRoot
+         transform="matrix(1.9674929,0,0,1.9674929,-499.43885,792.9464)"
+         style="font-size:25.41305161px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d3227;fill-opacity:1;stroke:none;font-family:Futura Bk BT;-inkscape-font-specification:Futura Bk BT"
+         id="flowRoot7728-0-1-5-1"
+         xml:space="preserve"><flowRegion
+           id="flowRegion7730-1-06-0-0"><rect
+             style="font-size:25.41305161px;fill:#4d3227;fill-opacity:1"
+             y="14.414414"
+             x="322.52252"
+             height="299.57382"
+             width="680.65942"
+             id="rect7732-3-32-3-6" /></flowRegion><flowPara
+           id="flowPara3041-0-6-3"
+           style="font-size:25.41305161px">National Institutes of Health: National Institute on Aging (nia.nih.gov)</flowPara></flowRoot>    </g>
   </g>
 </svg>
